@@ -30,7 +30,7 @@ class InstalledVersions
     'aliases' => 
     array (
     ),
-    'reference' => '4ccdecafb5edbccf82c03b1d5c4c2f8a92c64a46',
+    'reference' => '119986f8436ee3c6d1845ecb0ad14ebaf5cef7a6',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -524,6 +524,15 @@ class InstalledVersions
         0 => '9.3.6',
       ),
     ),
+    'drupal/ctools' => 
+    array (
+      'pretty_version' => '3.7.0',
+      'version' => '3.7.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-3.7',
+    ),
     'drupal/datetime' => 
     array (
       'replaced' => 
@@ -824,6 +833,15 @@ class InstalledVersions
         0 => '9.3.6',
       ),
     ),
+    'drupal/pathauto' => 
+    array (
+      'pretty_version' => '1.9.0',
+      'version' => '1.9.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.9',
+    ),
     'drupal/quickedit' => 
     array (
       'replaced' => 
@@ -845,7 +863,7 @@ class InstalledVersions
       'aliases' => 
       array (
       ),
-      'reference' => '4ccdecafb5edbccf82c03b1d5c4c2f8a92c64a46',
+      'reference' => '119986f8436ee3c6d1845ecb0ad14ebaf5cef7a6',
     ),
     'drupal/responsive_image' => 
     array (
@@ -951,6 +969,15 @@ class InstalledVersions
       array (
         0 => '9.3.6',
       ),
+    ),
+    'drupal/token' => 
+    array (
+      'pretty_version' => '1.10.0',
+      'version' => '1.10.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.10',
     ),
     'drupal/toolbar' => 
     array (
