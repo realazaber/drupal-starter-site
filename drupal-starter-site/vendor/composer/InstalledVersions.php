@@ -25,12 +25,12 @@ class InstalledVersions
     private static $installed = array (
   'root' => 
   array (
-    'pretty_version' => '9.3.6',
-    'version' => '9.3.6.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => '06892f4121f8a41d0d58835c96bd1455eb058e25',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -95,6 +95,15 @@ class InstalledVersions
       array (
         0 => '9.3.6',
       ),
+    ),
+    'drupal/admin_toolbar' => 
+    array (
+      'pretty_version' => '3.1.0',
+      'version' => '3.1.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '3.1.0',
     ),
     'drupal/aggregator' => 
     array (
@@ -750,12 +759,12 @@ class InstalledVersions
     ),
     'drupal/recommended-project' => 
     array (
-      'pretty_version' => '9.3.6',
-      'version' => '9.3.6.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => '06892f4121f8a41d0d58835c96bd1455eb058e25',
     ),
     'drupal/responsive_image' => 
     array (
