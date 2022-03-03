@@ -24,7 +24,8 @@
         "drupal/core-recommended": "^9.3",
         "drupal/devel": "^4.1",
         "drupal/paragraphs": "^1.13",
-        "drupal/pathauto": "^1.9"
+        "drupal/pathauto": "^1.9",
+        "drupal/simple_gmap": "^3.0"
     },
     "conflict": {
         "drupal/drupal": "*"
