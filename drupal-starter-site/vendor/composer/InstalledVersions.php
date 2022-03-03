@@ -30,7 +30,7 @@ class InstalledVersions
     'aliases' => 
     array (
     ),
-    'reference' => '5610b95163408aab5427ebaa3ff115199e93d244',
+    'reference' => '721d42fb9e5abf86546f53971a118a8fa0ac9533',
     'name' => 'drupal/recommended-project',
   ),
   'versions' => 
@@ -881,7 +881,7 @@ class InstalledVersions
       'aliases' => 
       array (
       ),
-      'reference' => '5610b95163408aab5427ebaa3ff115199e93d244',
+      'reference' => '721d42fb9e5abf86546f53971a118a8fa0ac9533',
     ),
     'drupal/responsive_image' => 
     array (
@@ -896,6 +896,15 @@ class InstalledVersions
       array (
         0 => '9.3.6',
       ),
+    ),
+    'drupal/scheduler' => 
+    array (
+      'pretty_version' => '1.4.0',
+      'version' => '1.4.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.4',
     ),
     'drupal/search' => 
     array (
