@@ -29,7 +29,8 @@
         "drupal/pathauto": "^1.9",
         "drupal/scheduler": "^1.4",
         "drupal/simple_gmap": "^3.0",
-        "drupal/video_embed_field": "^2.4"
+        "drupal/video_embed_field": "^2.4",
+        "drupal/views_slideshow": "^4.8"
     },
     "conflict": {
         "drupal/drupal": "*"
