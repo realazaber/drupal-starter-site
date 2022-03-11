@@ -126,6 +126,15 @@
         0 => '9.3.6',
       ),
     ),
+    'drupal/addtoany' => 
+    array (
+      'pretty_version' => '1.16.0',
+      'version' => '1.16.0.0',
+      'aliases' => 
+      array (
+      ),
+      'reference' => '8.x-1.16',
+    ),
     'drupal/admin_toolbar' => 
     array (
       'pretty_version' => '3.1.0',
